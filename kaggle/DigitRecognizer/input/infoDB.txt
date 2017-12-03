@@ -1,0 +1,9 @@
+train.csv
+	column 1 : label
+	column 2 ~ 786(2+28*28) : pixel value
+	size : [42000, 785]
+
+test.csv
+	column 1 : label
+	column 2 ~ 786(2+28*28) : pixel value
+	size : [28000, 785]
